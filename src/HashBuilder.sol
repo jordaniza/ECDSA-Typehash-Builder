@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.16;
+pragma solidity ^0.8.0;
 
 import {ECDSA} from "@oz/utils/cryptography/ECDSA.sol";
 import {IERC20Permit} from "@oz/token/ERC20/extensions/draft-IERC20Permit.sol";
